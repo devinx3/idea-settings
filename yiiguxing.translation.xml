@@ -1,0 +1,20 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="stage" />
+      <item value="staging" />
+      <item value="stage mode" />
+      <item value="staging mode" />
+      <item value="付款日期" />
+      <item value="百分比" />
+      <item value="分期模式编码" />
+      <item value="付款计划" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
+      </map>
+    </option>
+  </component>
+</application>
