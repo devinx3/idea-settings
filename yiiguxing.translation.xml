@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="首次" />
       <item value="订单确认后更新订单" />
       <item value="after" />
       <item value="FIELD EQUALS" />
@@ -18,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
