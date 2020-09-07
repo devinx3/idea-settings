@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SCBAIJIA" />
+      <item value="must upload line attachment before and submit" />
+      <item value="must upload line attachment before asn submit" />
+      <item value="附件" />
+      <item value="必须上传附件（出厂报告）后才可提交送货单" />
+      <item value="行{0}物料{1}必须上传附件（出厂报告）后才可提交送货单！" />
       <item value="Returns a stream consisting of the elements of this stream, additionally performing the provided action on each element as elements are consumed from the resulting stream. This is an intermediate operation. For parallel stream pipelines, the action may be called at whatever time and in whatever thread the element is made available by the upstream operation. If the action modifies shared state, it is responsible for providing the required synchronization." />
       <item value="The behavior of this operation is explicitly nondeterministic. For parallel stream pipelines, this operation does not guarantee to respect the encounter order of the stream, as doing so would sacrifice the benefit of parallelism. For any given element, the action may be performed at whatever time and in whatever thread the library chooses. If the action accesses shared state, it is responsible for providing the required synchronization." />
       <item value="运输时间" />
@@ -25,8 +31,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="23" />
       </map>
     </option>
   </component>
