@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="必须相同" />
+      <item value="不允许为null" />
       <item value="FIELD deliver Time" />
       <item value="妥投" />
       <item value="电商妥投" />
@@ -45,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
