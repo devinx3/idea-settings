@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="电商子订单编号" />
+      <item value="ec Order Sub Num" />
+      <item value="电商父订单编号" />
       <item value="生日" />
       <item value="必须相同" />
       <item value="不允许为null" />
@@ -48,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
